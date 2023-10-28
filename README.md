@@ -15,19 +15,19 @@
 ## 🔧 Ferramentas
 <p align="center">
   <a href="#">
-    <p>Sistemas Operacionais</p>
+    <b>Sistemas Operacionais</b>
     <br>
     <a href="https://wikipedia.org/wiki/Microsoft_Windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="https://wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="https://wikipedia.org/wiki/Android"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
     <br><br><br>
-    <p>Estúdios</p>
+    <b>Estúdios</b>
     <br>
     <a href="https://jetbrains.com/"><img src="https://img.shields.io/badge/IntelliJ-ff69b4?style=for-the-badge&logo=IntelliJIDEA&logoColor=000000"></a>
     <a href="https://eclipse.org/"><img src="https://img.shields.io/badge/Eclipse-blueviolet?style=for-the-badge&logo=EclipseIDE&logoColor=2C2255"></a>
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"></a>
     <br><br>
-    <p>Linguagens</p>
+    <b>Linguagens</b>
     <br>
     <img src="https://img.shields.io/badge/Dev-JavaScript-informational?logo=JavaScript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/Dev-TypeScript-informational?logo=TypeScript&logoColor=3178C6">
@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Dev-Java-informational?logo=Java&logoColor=007396">
     <img src="https://img.shields.io/badge/Dev-Node.js-informational?logo=Node.js&logoColor=339933">
     <br><br>
-    <p>Node</p>
+    <b>Node</b>
     <br>    
     <img src="https://img.shields.io/badge/Node-Nodemon-brightgreen?logo=Nodemon&logoColor=76D04B">
     <img src="https://img.shields.io/badge/Node-Next.js-brightgreen?logo=Next.js&logoColor=F7DF1E">
