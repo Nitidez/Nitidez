@@ -14,7 +14,7 @@
 
 ## 🔧 Ferramentas
 <p align="center">
-  <a href="#">
+  <a>
     <b>Sistemas Operacionais</b>
     <br>
     <a href="https://wikipedia.org/wiki/Microsoft_Windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
@@ -39,10 +39,10 @@
     <br><br>
     <b>Node</b>
     <br>    
-    <img src="https://img.shields.io/badge/Node-Nodemon-brightgreen?logo=Nodemon&logoColor=76D04B">
-    <img src="https://img.shields.io/badge/Node-Next.js-brightgreen?logo=Next.js&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/Node-React-brightgreen?logo=React&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Node-Express-brightgreen?logo=Express&logoColor=000000">
-    <img src="https://img.shields.io/badge/Node-Discord.js-brightgreen?logo=Discord&logoColor=F7DF1E">
+    <a href="https://nodemon.io/"><img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=5A5A5A"></a>
+    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=Next.js&logoColor=black"></a>
+    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=61DAFB"></a>
+    <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=Express&logoColor=black"></a>
+    <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
   </a>
 </p>
